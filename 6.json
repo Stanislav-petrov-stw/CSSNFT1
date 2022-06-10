@@ -1,0 +1,20 @@
+{
+  "name": "CSS NFT Collection NFT #6",
+  "description": "CSS our first Web3 dApp NFT Collection. This unique collection 6 of 1000 NFTs available",
+  "image": "ipfs://QmU1udQxFusuzz1R3b61ABHLgnxUAF8w2oC4tWSPivQtgN/6.png",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "white"
+    },
+    {
+      "trait_type": "Earth",
+      "value": "lavender"
+    },
+    {
+      "trait_type": "Number",
+      "value": "Six"
+    }
+  ]
+}
