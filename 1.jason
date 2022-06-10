@@ -9,12 +9,12 @@
       "value": "white"
     },
     {
-      "trait_type": "Head",
-      "value": "Green"
+      "trait_type": "Earth",
+      "value": "Blue"
     },
     {
-      "trait_type": "Neck",
-      "value": "Rose"
+      "trait_type": "Number",
+      "value": "One"
     }
   ]
 }
