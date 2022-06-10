@@ -1,0 +1,20 @@
+{
+  "name": "CSS NFT Collection NFT #4",
+  "description": "CSS our first Web3 dApp NFT Collection. This unique collection 4 of 1000 NFTs available",
+  "image": "ipfs://QmU1udQxFusuzz1R3b61ABHLgnxUAF8w2oC4tWSPivQtgN/4.png",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "white"
+    },
+    {
+      "trait_type": "Earth",
+      "value": "Light red"
+    },
+    {
+      "trait_type": "Number",
+      "value": "Four"
+    }
+  ]
+}
